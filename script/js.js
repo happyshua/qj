@@ -28,8 +28,8 @@ $id('gzck').onclick = ()=>{
         <div id="alertBox">
             <div class="boxTitle">销假规则说明</div>
             <div class="boxContent">
-                · 开启时间: &nbsp;2022-06-02 16:43:31   <br/>
-                · 操作人: 廖建玮
+                · 开启时间: &nbsp;2024-06-02 16:43:31   <br/>
+                · 操作人: 
             </div>
             <div id="know">
                 知道了
